@@ -763,7 +763,8 @@ h1, h2, h3, h4, h5,
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url('https://github.com/maherhasannn/images/blob/main/pcg%20group%20image1.png?raw=true'); }
+  /*background-image: 'images\pcg group image1.png';*/
+  background-image: url('https://github.com/piedmont-consulting/images/blob/main/IMG_7001.png?raw=true'); }
   .site-section-cover,
   .site-section-cover .container {
     position: relative;
